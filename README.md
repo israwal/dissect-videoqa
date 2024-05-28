@@ -1,6 +1,6 @@
 # Dissecting Multimodality in VideoQA Transformer Models by Impairing Modality Fusion
 
-## Project Page: [https://dissect-videoqa.github.io/]()
+## Project Page: [https://dissect-videoqa.github.io/](https://dissect-videoqa.github.io/)
 
 ## QUAG and QUAG-attention
 
